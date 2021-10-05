@@ -1,0 +1,1 @@
+delete from person where id in (1,2,3,4,5,6)
